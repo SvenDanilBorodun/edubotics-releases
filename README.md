@@ -37,7 +37,9 @@ Ordner [licenses](licenses/).
 Sicherheitslücken bitte vertraulich melden, wie in [SECURITY.md](SECURITY.md)
 beschrieben.
 
-## Kontakt
+## Kontakt und Impressum
+
+Anbieter:
 
 Sven Danil Borodun (EduBotics)
 Unsuhrstrasse 10, 45325 Essen, Deutschland
